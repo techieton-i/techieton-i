@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Project and team members
 - 😄 Fun fact: I love Music(🎶), Football(⚽), Gaming(🎮) and Coding(💻)
 - 💬 Talk to me about freelancing opportunities on Web development.
-- 📫 How to reach me: Catch and follow me from the  e-mail : [**isrealodejobi@gmail.com**](mailto:typeyyourmailhere).
+- 📫 How to reach me: Catch and follow me from the  e-mail : [**odejobiisrael@gmail.com**](mailto:odejobiisrael).
 
 
 ## 🛠️ My Skills
@@ -58,9 +58,8 @@ Here are some ideas to get you started:
 
 ## :fire: Github Stats
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=techieton-i&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="isrealodejobi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techieton-i&show_icons=true&locale=en&theme=tokyonight" alt="isrealodejobi" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=techieton-i&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="isrealodejobi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techieton-i&&theme=tokyonight" alt="isrealodejobi" /></p>
 
@@ -69,7 +68,7 @@ Here are some ideas to get you started:
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=techieton-i&&theme=xcode)](https://github.com/techieton-i)
 
 
-<!-- Github Stats END -->
+<!-- Github Stats ENDs Here -->
 
 
 <!-- Connect With Me -->
@@ -77,7 +76,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="center">
-  <a href="mailto:isrealodejobi@gmail.com" target="_blank">
+  <a href="mailto:odejobiisrael@gmail.com" target="_blank">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/techieton-i" target="_blank">
