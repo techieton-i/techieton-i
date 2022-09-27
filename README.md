@@ -23,52 +23,13 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Israel Odejobi.
 - 💼 I'm a Web developer.
 - 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with ...
-- 😄 Fun fact: I love Music(🎶), Football(⚽), Gaming(🎮), Coding(💻), Travelling(🌍), and Photography(📷).
+- 🤔 I’m looking for help with Project and team members
+- 😄 Fun fact: I love Music(🎶), Football(⚽), Gaming(🎮) and Coding(💻)
 - 💬 Talk to me about freelancing opportunities on Web development.
 - 📫 How to reach me: Catch and follow me from the  e-mail : [**isrealodejobi@gmail.com**](mailto:typeyyourmailhere).
 
 
-<!-- Connect With Me -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-
-<p align="center">
-  <a href="mailto:isrealodejobi@gmail.com" target="_blank">
-    <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/meetmarvelous" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://wa.me/2348105759544" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/meetmarvelous" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-  </a>
-  <a href="https://www.facebook.com/meetmarvelous"  target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://twitter.com/MeetMarvelous" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="#" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" >
-  </a> 
-  <a href="#" target="_blank">
-    <img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://bio.link/meetmarvelous" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" >
-  </a>
-</p>
-
-<!-- Connect with me:END -->
-
-
-## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## 🛠️ My Skills
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -95,35 +56,39 @@ Here are some ideas to get you started:
 
 </details>
 
-## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats (Expand to View)
+## :fire: Github Stats
 
-</details>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=techieton-i&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="isrealodejobi" /></p>
 
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img alt="isrealodejobi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=techieton-i&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  <br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techieton-i&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="meetmarvelous language" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techieton-i&show_icons=true&locale=en&theme=tokyonight" alt="isrealodejobi" /></p>
 
----
-
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/techieton-i/"><img alt="isrealodejobi' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techieton-i&custom_title=Isreal'%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
----
-
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techieton-i&&theme=tokyonight" alt="isrealodejobi" /></p>
 
 
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=isreal91208033" target="blank"><img src="https://img.shields.io/twitter/follow/isrealodejobi?logo=twitter&style=for-the-badge" alt="isrealtwitter" /></a> </p>
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=techieton-i&&theme=xcode)](https://github.com/techieton-i)
+
+
+<!-- Github Stats END -->
+
+
+<!-- Connect With Me -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
+<p align="center">
+  <a href="mailto:isrealodejobi@gmail.com" target="_blank">
+    <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/techieton-i" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/israel-odejobi-8b16b4210" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <a href="https://twitter.com/@Israel91208033" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
+
+<!-- Connect with me:END -->
