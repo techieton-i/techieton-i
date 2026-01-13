@@ -1,84 +1,75 @@
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<div width="100%" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Israel+Odejobi;Web+Developer+%26+UI+Designer;Building+fast,+user-centric+software" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=My+name+is+Israel.;I'm+a+Web+Developer;I+love+building+projects.;I+enjoy+creating+fast+websites;+and+software+with+great+UX."></a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=techieton-i&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
----
-
-### ⚡ About Me
-
-<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" />
-
-- 👋 **Hi, I’m Israel Odejobi.**
-- 💼 **Web Developer** dedicated to building responsive and user-friendly web applications.
-- 👯 **Looking to collaborate** on open-source projects and innovative web solutions.
-- 🤔 **Seeking help with** scaling large-scale projects and advanced system architecture.
-- 💬 **Talk to me about** freelancing, UI/UX design, or modern web frameworks.
-- 📫 **Reach me at:** [**odejobiisrael@gmail.com**](mailto:odejobiisrael@gmail.com)
-- 😄 **Fun fact:** I love Music (🎶), Football (⚽), Gaming (🎮), and Coding (💻).
+  <p>
+    <a href="https://www.linkedin.com/in/israel-odejobi-8b16b4210"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:odejobiisrael@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://twitter.com/@Israel91208033"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ My Skills
+### 🧑‍💻 Who I Am
+I am a passionate **Web Developer** focused on bridging the gap between clean code and exceptional user experience. I specialize in 'breaking' and building high-performance websites that don't just work—they feel great to use.
 
+- 🔭 **Current Focus:** Scaling robust web architectures and mastering UX patterns.
+- 👯 **Collaboration:** Open to working on innovative SaaS products and open-source tools.
+- 💬 **Ask me about:** JavaScript,Typescript, Tailwind CSS,React,Next or why fast loading speeds are the best feature.
+- ⚡ **Fun Fact:** When I'm not coding, I'm likely gaming or cheering on my football team.
+
+---
+
+### 🛠️ Tech Stack & Specialized Tools
+
+#### **Frontend & Design**
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,figma&perline=10" />
+</p>
+
+#### **Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,supabase&perline=10" />
+</p>
+
+#### **DevOps & Productivity**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker&perline=10" />
 </p>
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-mu-nine-19.vercel.app/api?username=techieton-i&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Israel's GitHub stats" />
-  <img width="35%" src="https://github-readme-stats-mu-nine-19.vercel.app/api/top-langs/?username=techieton-i&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="89%" src="https://github-readme-streak-stats-zqck.vercel.app?user=techieton-i&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="89%" src="https://github-readme-activity-graph.vercel.app/graph?username=techieton-i&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+### 📊 Performance Metrics
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-mu-nine-19.vercel.app/api?username=techieton-i&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,reviews&include_all_commits=true&count_private=true&show_orgs=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-mu-nine-19.vercel.app/api/top-langs/?username=techieton-i&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-streak-stats-five-smoky.vercel.app/?user=techieton-i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Connect with me
+### 📈 Contribution Activity
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techieton-i&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=techieton-i&label=PROFILE+VIEWS&color=7AA2F7&style=for-the-badge" alt="Views" />
+</div>
+
+<br />
 
 <p align="center">
-  <a href="mailto:odejobiisrael@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/techieton-i" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/israel-odejobi-8b16b4210" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/@Israel91208033" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i><br/>
+  <i>"Excellence is not a skill. It is an attitude." – Ralph Marston</i><br/>
 </p>
